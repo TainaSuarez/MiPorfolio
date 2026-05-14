@@ -39,8 +39,6 @@ public/
   PaulaSuarezCV.pdf
 ```
 
-## Instalación y uso
-
 
 
 El objetivo de este portfolio es centralizar mi presentación profesional en un solo sitio, mostrando de manera clara mi perfil como desarrolladora, los proyectos en los que trabajo y las tecnologías que utilizo.
