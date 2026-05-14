@@ -1,0 +1,30 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#101B2A"/>
+  <circle cx="875" cy="210" r="180" fill="url(#paint0_radial)" fill-opacity="0.9"/>
+  <circle cx="875" cy="210" r="138" stroke="#A48BFF" stroke-opacity="0.55" stroke-width="18"/>
+  <circle cx="875" cy="210" r="108" stroke="#A48BFF" stroke-opacity="0.2" stroke-width="1.5"/>
+  <path d="M962 238C962 271.137 935.137 298 902 298C868.863 298 842 271.137 842 238C842 204.863 868.863 178 902 178C935.137 178 962 204.863 962 238Z" fill="#8F73FF" fill-opacity="0.12"/>
+  <path d="M301 127L264 149V105L301 127Z" stroke="#A48BFF" stroke-opacity="0.35" stroke-width="2"/>
+  <path d="M1047 512L1010 534V490L1047 512Z" stroke="#A48BFF" stroke-opacity="0.3" stroke-width="2"/>
+  <circle cx="1035" cy="140" r="3" fill="#B9A6FF"/>
+  <circle cx="1060" cy="140" r="3" fill="#B9A6FF" fill-opacity="0.6"/>
+  <circle cx="1085" cy="140" r="3" fill="#B9A6FF" fill-opacity="0.4"/>
+  <rect x="120" y="148" width="320" height="2" fill="#A48BFF" fill-opacity="0.35"/>
+  <text x="120" y="238" fill="white" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="600">BandFM</text>
+  <text x="120" y="300" fill="#BFC5FF" font-family="Sora, Inter, Arial, sans-serif" font-size="74" font-weight="700">Sistema Web</text>
+  <text x="120" y="374" fill="#BFC5FF" font-family="Sora, Inter, Arial, sans-serif" font-size="74" font-weight="700">de Radio</text>
+  <text x="120" y="448" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500">Portal público, panel administrativo, programación,</text>
+  <text x="120" y="486" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500">podcasts, promociones y dashboard.</text>
+  <rect x="120" y="548" width="138" height="44" rx="22" fill="#171F2D" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <text x="145" y="577" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="500">Next.js</text>
+  <rect x="273" y="548" width="162" height="44" rx="22" fill="#171F2D" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <text x="299" y="577" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="500">TypeScript</text>
+  <rect x="450" y="548" width="176" height="44" rx="22" fill="#171F2D" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <text x="474" y="577" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="500">Tailwind CSS</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(875 210) rotate(90) scale(180)">
+      <stop stop-color="#A48BFF" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#A48BFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

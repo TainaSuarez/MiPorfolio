@@ -1,0 +1,16 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#101B2A"/>
+  <circle cx="894" cy="222" r="180" fill="url(#paint0_radial)" fill-opacity="0.9"/>
+  <circle cx="894" cy="222" r="138" stroke="#A48BFF" stroke-opacity="0.55" stroke-width="18"/>
+  <rect x="120" y="148" width="250" height="2" fill="#A48BFF" fill-opacity="0.35"/>
+  <text x="120" y="238" fill="white" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="600">React App</text>
+  <text x="120" y="320" fill="#BFC5FF" font-family="Sora, Inter, Arial, sans-serif" font-size="66" font-weight="700">Filmes e</text>
+  <text x="120" y="390" fill="#BFC5FF" font-family="Sora, Inter, Arial, sans-serif" font-size="66" font-weight="700">Personagens</text>
+  <text x="120" y="460" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500">Gestión simple de publicaciones en una interfaz compacta.</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(894 222) rotate(90) scale(180)">
+      <stop stop-color="#A48BFF" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#A48BFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

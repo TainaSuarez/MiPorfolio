@@ -1,34 +1,36 @@
-# 🌐 Meu Primeiro Portfólio Web  
+# Paula Suárez Costa | Portfolio
 
-Bem-vindo(a) ao meu primeiro portfólio web! 🚀 Este projeto foi desenvolvido com **HTML, CSS e JavaScript** para apresentar minhas habilidades e projetos na área de desenvolvimento web.  
+Portfolio personal desarrollado con Next.js, TypeScript, Tailwind CSS, Framer Motion y React Icons.
 
-## 🎨 Tecnologias Utilizadas  
+## Stack
 
-- **HTML5** → Estrutura semântica do site.  
-- **CSS3** → Estilos e design responsivo.  
-- **JavaScript** → Interatividade e dinamismo.  
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- React Icons
 
-## 📌 Características  
+## Cómo correr el proyecto
 
-✅ Design limpo e moderno.  
-✅ Seção sobre mim, minhas habilidades e projetos em destaque.  
-✅ Formulário de contato funcional.  
+```bash
+npm install
+npm run dev
+```
 
-## 🛠 Melhorias Futuras  
-- 🔹 Adicionar mais projetos e funcionalidades.  
-- 🔹 Implementar animações avançadas com CSS e JavaScript.  
-- 🔹 Otimizar o desempenho e acessibilidade.  
+## Estructura principal
 
-## ![image](https://github.com/user-attachments/assets/78a503f3-1f16-4f27-b0b2-22890d32184a)
+```text
+src/
+  app/
+  components/
+  data/
+public/
+  img/
+  PaulaSuarezCV.pdf
+```
 
-## 📬 Contato  
-- 📩 Email: devsuareztaina@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/paula-suarez-3455a72b3](https://www.linkedin.com/in/paula-suarez-3455a72b3/)  
+## Contenido
 
-🔗 **Confira o projeto ao vivo aqui:** [Meu Portfólio](https://meu-portafolio-e8qs-j7ycspqyf-tainas-projects-8bd1b82b.vercel.app/)  
-
-## 🚀 Instalação e Uso  
-
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/TainaSuarez/MeuPortafolio.git
+- El portfolio incluye hero, sobre mí, habilidades, experiencia, proyectos, contacto y footer.
+- Los proyectos y el contenido principal se alimentan desde `src/data`.
+- El CV descargable está disponible en `public/PaulaSuarezCV.pdf`.
