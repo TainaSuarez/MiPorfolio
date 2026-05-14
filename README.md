@@ -1,4 +1,4 @@
-# Paula Suárez Costa | Portfolio
+# Portfolio
 
 Portfolio personal desarrollado para presentar mi perfil profesional, habilidades técnicas, experiencia y proyectos destacados en una experiencia web moderna e interactiva.
 
@@ -17,13 +17,10 @@ Estas son las principales tecnologías usadas para crear el proyecto:
 - TypeScript
 - Tailwind CSS
 - Framer Motion
-- React Icons
-- PostCSS
-- Autoprefixer
+
 
 ## Características
 
-- Diseño de portafolio personal responsive
 - Secciones organizadas para presentación profesional
 - Animaciones e interfaz dinámica
 - Listado de proyectos con recursos visuales
@@ -44,43 +41,6 @@ public/
 
 ## Instalación y uso
 
-1. Clonar el repositorio:
 
-```bash
-git clone https://github.com/TainaSuarez/MiPorfolio.git
-```
 
-2. Entrar en la carpeta del proyecto:
-
-```bash
-cd MiPorfolio
-```
-
-3. Instalar dependencias:
-
-```bash
-npm install
-```
-
-4. Ejecutar en desarrollo:
-
-```bash
-npm run dev
-```
-
-5. Abrir en el navegador:
-
-```text
-http://localhost:3000
-```
-
-## Scripts disponibles
-
-- `npm run dev`: inicia el servidor de desarrollo
-- `npm run build`: genera la versión de producción
-- `npm run start`: ejecuta la app en modo producción
-- `npm run lint`: ejecuta la validación del proyecto
-
-## Objetivo del proyecto
-
-El objetivo de este portfolio es centralizar mi presentación profesional en un solo sitio, mostrando de manera clara mi perfil como desarrolladora, los proyectos en los que trabajé y las tecnologías que utilizo.
+El objetivo de este portfolio es centralizar mi presentación profesional en un solo sitio, mostrando de manera clara mi perfil como desarrolladora, los proyectos en los que trabajo y las tecnologías que utilizo.
