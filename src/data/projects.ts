@@ -9,6 +9,14 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    title: 'Sumar+',
+    description: 'Plataforma web de crowdfunding y donaciones desarrollada para conectar donantes y personas en necesidad a través de campañas online, priorizando transparencia, experiencia de usuario y accesibilidad.',
+    image: '/img/sumar-cover.svg',
+    tech: ['Next.js', 'React.js', 'TypeScript', 'Prisma', 'PostgreSQL', 'Tailwind CSS', 'NextAuth', 'Stripe', 'AWS S3'],
+    demoLink: 'PENDING',
+    githubLink: 'https://github.com/TainaSuarez/Sumar-tcc',
+  },
+  {
     title: 'BandFM - Sistema Web de Radio',
     description: 'Portal y panel administrativo para una radio online.',
     image: '/img/bandfm-cover.svg',

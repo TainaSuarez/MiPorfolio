@@ -1,0 +1,28 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="32" fill="#0A1220"/>
+  <rect x="40" y="40" width="1120" height="680" rx="28" fill="url(#panel)" stroke="rgba(255,255,255,0.08)"/>
+  <circle cx="910" cy="210" r="165" fill="url(#glow)" fill-opacity="0.85"/>
+  <circle cx="270" cy="560" r="110" fill="#8F73FF" fill-opacity="0.08"/>
+  <path d="M152 210H436" stroke="#A48BFF" stroke-opacity="0.42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M152 550H336" stroke="#A48BFF" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round"/>
+  <rect x="152" y="252" width="196" height="42" rx="21" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <text x="600" y="320" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="94" font-weight="700">Sumar+</text>
+  <text x="600" y="378" text-anchor="middle" fill="#C7D2FE" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500">Crowdfunding y donaciones con foco en transparencia y accesibilidad</text>
+  <text x="250" y="279" text-anchor="middle" fill="#E2E8F0" font-family="Orbitron, Inter, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="2">NEXT + TS</text>
+  <rect x="152" y="454" width="152" height="44" rx="22" fill="#8F73FF" fill-opacity="0.16" stroke="rgba(164,139,255,0.28)"/>
+  <text x="228" y="481" text-anchor="middle" fill="#EDE9FE" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="600">Impacto real</text>
+  <rect x="330" y="454" width="188" height="44" rx="22" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <text x="424" y="481" text-anchor="middle" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">Donaciones online</text>
+  <rect x="546" y="454" width="176" height="44" rx="22" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <text x="634" y="481" text-anchor="middle" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">UX accesible</text>
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(910 210) rotate(90) scale(165)">
+      <stop stop-color="#A48BFF" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#8F73FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="panel" x1="90" y1="84" x2="1092" y2="708" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1724"/>
+      <stop offset="1" stop-color="#101B2A"/>
+    </linearGradient>
+  </defs>
+</svg>
