@@ -1,5 +1,8 @@
 # Portfolio
 
+<img width="1536" height="1024" alt="portfolio" src="https://github.com/user-attachments/assets/8babf022-2e84-4168-8777-f9ff57ee2a2d" />
+
+
 Portfolio personal desarrollado para presentar mi perfil profesional, habilidades técnicas, experiencia y proyectos destacados en una experiencia web moderna e interactiva.
 
 ## Descripción
